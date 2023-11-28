@@ -1,0 +1,272 @@
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab2\Lab2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab2\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab3\Lab2\obj\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab3\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab4\Lab2\obj\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab4\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab4\Lab2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab4\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab4\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab4\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab4\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab4\Lab2\bin\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab4\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab5\Lab2\obj\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab5\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab5\Lab2\bin\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab5\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab5\Lab2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab5\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab5\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab5\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab5\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab5\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab6\Lab2\obj\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab6\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab6\Lab2\bin\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab6\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab6\Lab2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab6\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab6\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab6\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab6\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab6\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab6\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab7\Lab2\obj\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab7\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab7\Lab2\bin\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab7\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab7\Lab2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab7\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab7\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab7\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab7\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab7\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab7\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab8\Lab2\obj\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab8\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab8\Lab2\bin\Debug\Lab2.exe
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab8\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab8\Lab2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab8\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab8\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab8\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab8\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab8\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+C:\Users\Nurgaliev\Documents\Visual Studio 2008\Projects\CSLabs\Lab8\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+D:\ФаИ-4\084-0901\CS8-13\Lab8\Lab2\obj\Debug\Lab2.exe
+D:\ФаИ-4\084-0901\CS8-13\Lab8\Lab2\obj\Debug\Lab2.pdb
+D:\ФаИ-4\084-0901\CS8-13\Lab8\Lab2\bin\Debug\Lab2.exe
+D:\ФаИ-4\084-0901\CS8-13\Lab8\Lab2\bin\Debug\Lab2.pdb
+D:\ФаИ-4\084-0901\CS8-13\Lab8\Lab2\obj\Debug\ResolveAssemblyReference.cache
+D:\ФаИ-4\084-0901\CS8-13\Lab8\Lab2\obj\Debug\Lab2.Form1.resources
+D:\ФаИ-4\084-0901\CS8-13\Lab8\Lab2\obj\Debug\Lab2.Form2.resources
+D:\ФаИ-4\084-0901\CS8-13\Lab8\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+D:\ФаИ-4\084-0901\CS8-13\Lab8\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\ФаИ-4\084-0901\CS8-13\Lab8\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+D:\ФаИ-4\084-0901\CS8-13\Lab8\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+G:\Учеба\CS8-13\Lab8\Lab2\obj\Debug\Lab2.exe
+G:\Учеба\CS8-13\Lab8\Lab2\obj\Debug\Lab2.pdb
+G:\Учеба\CS8-13\Lab8\Lab2\bin\Debug\Lab2.exe
+G:\Учеба\CS8-13\Lab8\Lab2\bin\Debug\Lab2.pdb
+G:\Учеба\CS8-13\Lab8\Lab2\obj\Debug\ResolveAssemblyReference.cache
+G:\Учеба\CS8-13\Lab8\Lab2\obj\Debug\Lab2.Form1.resources
+G:\Учеба\CS8-13\Lab8\Lab2\obj\Debug\Lab2.Form2.resources
+G:\Учеба\CS8-13\Lab8\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+G:\Учеба\CS8-13\Lab8\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+G:\Учеба\CS8-13\Lab8\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+G:\Учеба\CS8-13\Lab8\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+D:\учеба 3 курс\C#\Lab8\Lab2\obj\Debug\Lab2.exe
+D:\учеба 3 курс\C#\Lab8\Lab2\obj\Debug\Lab2.pdb
+C:\Users\1\Documents\Мои универ.документы\1. Разное от старшекурсников\C#\C# лабы\Lab8\Lab2\obj\Debug\Lab2.exe
+C:\Users\1\Documents\Мои универ.документы\1. Разное от старшекурсников\C#\C# лабы\Lab8\Lab2\obj\Debug\Lab2.pdb
+C:\Users\1\Documents\Мои универ.документы\1. Разное от старшекурсников\C#\C# лабы\Lab8\Lab2\bin\Debug\Lab2.exe
+C:\Users\1\Documents\Мои универ.документы\1. Разное от старшекурсников\C#\C# лабы\Lab8\Lab2\bin\Debug\Lab2.pdb
+C:\Users\1\Documents\Мои универ.документы\1. Разное от старшекурсников\C#\C# лабы\Lab8\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Мои универ.документы\1. Разное от старшекурсников\C#\C# лабы\Lab8\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\1\Documents\Мои универ.документы\1. Разное от старшекурсников\C#\C# лабы\Lab8\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\1\Documents\Мои универ.документы\1. Разное от старшекурсников\C#\C# лабы\Lab8\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+C:\Users\1\Documents\Мои универ.документы\1. Разное от старшекурсников\C#\C# лабы\Lab8\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\1\Documents\Мои универ.документы\1. Разное от старшекурсников\C#\C# лабы\Lab8\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+C:\Users\1\Documents\Мои универ.документы\1. Разное от старшекурсников\C#\C# лабы\Lab8\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Lab8\Lab2\obj\Debug\Lab2.exe
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Lab8\Lab2\obj\Debug\Lab2.pdb
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Lab8\Lab2\bin\Debug\Lab2.exe
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Lab8\Lab2\bin\Debug\Lab2.pdb
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Lab8\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Lab8\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Lab8\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Lab8\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Lab8\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Lab8\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Lab8\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Лабораторная работа №8\Lab2\obj\Debug\Lab2.exe
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Лабораторная работа №8\Lab2\obj\Debug\Lab2.pdb
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Лабораторная работа №8\Lab2\bin\Debug\Lab2.exe
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Лабораторная работа №8\Lab2\bin\Debug\Lab2.pdb
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Лабораторная работа №8\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Лабораторная работа №8\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Лабораторная работа №8\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Лабораторная работа №8\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Лабораторная работа №8\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Лабораторная работа №8\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+C:\Users\1\Documents\Мои универ.документы\Объектно-ориентированное программирование (С#)\Практикум\Лабораторная работа №8\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\BaTJa\Desktop\Лабораторная работа №8\Lab2\obj\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\Лабораторная работа №8\Lab2\obj\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\с#\lab7\Lab2\obj\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\с#\lab7\Lab2\obj\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\с#\lab7\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\BaTJa\Desktop\с#\lab7\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\BaTJa\Desktop\с#\lab7\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\BaTJa\Desktop\с#\lab7\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+C:\Users\BaTJa\Desktop\с#\lab7\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\BaTJa\Desktop\с#\lab7\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+C:\Users\BaTJa\Desktop\с#\lab7\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\BaTJa\Desktop\с#\lab7\Lab2\bin\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\с#\lab7\Lab2\bin\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\с#\Лабораторная работа №8\Lab2\obj\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\с#\Лабораторная работа №8\Lab2\obj\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\с#\lab8\Lab2\obj\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\с#\lab8\Lab2\obj\Debug\Lab2.pdb
+F:\универ\iljhom labi\с#\lab8\Lab2\obj\Debug\Lab2.exe
+F:\универ\iljhom labi\с#\lab8\Lab2\obj\Debug\Lab2.pdb
+F:\универ\iljhom labi\с#\lab8\Lab2\bin\Debug\Lab2.exe
+F:\универ\iljhom labi\с#\lab8\Lab2\bin\Debug\Lab2.pdb
+F:\универ\iljhom labi\с#\lab8\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+F:\универ\iljhom labi\с#\lab8\Lab2\obj\Debug\Lab2.Form1.resources
+F:\универ\iljhom labi\с#\lab8\Lab2\obj\Debug\Lab2.Form2.resources
+F:\универ\iljhom labi\с#\lab8\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+F:\универ\iljhom labi\с#\lab8\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+F:\универ\iljhom labi\с#\lab8\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+F:\универ\iljhom labi\с#\lab8\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\BaTJa\Desktop\с#\бета 3.0\lab8\Lab2\obj\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\с#\бета 3.0\lab8\Lab2\obj\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\с#\бета 3.0\lab8\Lab2\bin\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\с#\бета 3.0\lab8\Lab2\bin\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\с#\бета 3.0\lab8\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\BaTJa\Desktop\с#\бета 3.0\lab8\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\BaTJa\Desktop\с#\бета 3.0\lab8\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\BaTJa\Desktop\с#\бета 3.0\lab8\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+C:\Users\BaTJa\Desktop\с#\бета 3.0\lab8\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\BaTJa\Desktop\с#\бета 3.0\lab8\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+C:\Users\BaTJa\Desktop\с#\бета 3.0\lab8\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\BaTJa\Desktop\lab8\Lab2\obj\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\lab8\Lab2\obj\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\lab8\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\BaTJa\Desktop\lab8\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\BaTJa\Desktop\lab8\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\BaTJa\Desktop\lab8\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+C:\Users\BaTJa\Desktop\lab8\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\BaTJa\Desktop\lab8\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+C:\Users\BaTJa\Desktop\lab8\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\BaTJa\Desktop\lab8\Lab2\bin\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\lab8\Lab2\bin\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\lab9\Lab2\obj\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\lab9\Lab2\obj\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\lab9\Lab2\bin\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\lab9\Lab2\bin\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\lab9\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\BaTJa\Desktop\lab9\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\BaTJa\Desktop\lab9\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\BaTJa\Desktop\lab9\Lab2\obj\Debug\Lab2.penWidthDialog.resources
+C:\Users\BaTJa\Desktop\lab9\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\BaTJa\Desktop\lab9\Lab2\obj\Debug\Lab2.pictureSizeDialog.resources
+C:\Users\BaTJa\Desktop\lab9\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\BaTJa\Desktop\lab9\WindowsFormsApplication1\bin\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\lab9\WindowsFormsApplication1\bin\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\lab9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\BaTJa\Desktop\lab9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\BaTJa\Desktop\lab9\WindowsFormsApplication1\obj\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\lab9\WindowsFormsApplication1\obj\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\lab9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\BaTJa\Desktop\lab9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\BaTJa\Desktop\lab9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.penWidthDialog.resources
+C:\Users\BaTJa\Desktop\lab9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\BaTJa\Desktop\lab9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pictureSizeDialog.resources
+C:\Users\BaTJa\Desktop\lab10\WindowsFormsApplication1\obj\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\lab10\WindowsFormsApplication1\obj\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\lab10\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\BaTJa\Desktop\lab10\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\BaTJa\Desktop\lab10\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.penWidthDialog.resources
+C:\Users\BaTJa\Desktop\lab10\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\BaTJa\Desktop\lab10\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pictureSizeDialog.resources
+C:\Users\BaTJa\Desktop\lab10\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\BaTJa\Desktop\lab10\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\BaTJa\Desktop\lab10\WindowsFormsApplication1\bin\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\lab10\WindowsFormsApplication1\bin\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\lab11\WindowsFormsApplication1\obj\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\lab11\WindowsFormsApplication1\obj\Debug\Lab2.pdb
+C:\Users\BaTJa\Desktop\черновик\с#\lab11\WindowsFormsApplication1\obj\Debug\Lab2.exe
+C:\Users\BaTJa\Desktop\черновик\с#\lab11\WindowsFormsApplication1\obj\Debug\Lab2.pdb
+D:\учеба\учеба\5 семестр\с шарп\lab11\WindowsFormsApplication1\obj\Debug\Lab2.exe
+D:\учеба\учеба\5 семестр\с шарп\lab11\WindowsFormsApplication1\obj\Debug\Lab2.pdb
+F:\lab11\WindowsFormsApplication1\obj\Debug\Lab2.exe
+F:\lab11\WindowsFormsApplication1\obj\Debug\Lab2.pdb
+F:\lab11\WindowsFormsApplication1\bin\Debug\Lab2.exe
+F:\lab11\WindowsFormsApplication1\bin\Debug\Lab2.pdb
+F:\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.penWidthDialog.resources
+F:\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pictureSizeDialog.resources
+F:\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.penWidthDialog.resources
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pictureSizeDialog.resources
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\Lab2.exe
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\Lab2.pdb
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\bin\Debug\Lab2.exe.config
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\bin\Debug\Lab2.exe
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\bin\Debug\Lab2.pdb
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\bin\Debug\Lab2.exe.config
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\bin\Debug\Lab2.exe
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\bin\Debug\Lab2.pdb
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.penWidthDialog.resources
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pictureSizeDialog.resources
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\Lab2.exe
+F:\3 курс\2 сем\c#\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\Lab2.pdb
+d:\Documents\Downloads\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.penWidthDialog.resources
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pictureSizeDialog.resources
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\Lab2.exe
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\obj\Debug\Lab2.pdb
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\bin\Debug\Lab2.exe.config
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\bin\Debug\Lab2.exe
+C:\Users\t1002\Desktop\Лаба14\lab11\WindowsFormsApplication1\bin\Debug\Lab2.pdb
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.penWidthDialog.resources
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pictureSizeDialog.resources
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\obj\Debug\Lab2.exe
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\obj\Debug\Lab2.pdb
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\bin\Debug\Lab2.exe.config
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\bin\Debug\Lab2.exe
+C:\Users\t1002\Desktop\14\lab11\WindowsFormsApplication1\bin\Debug\Lab2.pdb
